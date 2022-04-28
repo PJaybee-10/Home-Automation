@@ -1,4 +1,4 @@
-# IOT-Smart-Home-Automation
+# Home Automation
 
 This Project is used:
 1) Arduino and NodeMCU for connecting to hardware and controlling Lights Fans AC etc.
